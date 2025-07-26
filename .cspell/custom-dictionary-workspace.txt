@@ -1,0 +1,12 @@
+# Custom Dictionary Words
+abstra
+Abstra
+codz
+cursorignore
+cursorindexingignore
+envrc
+marimo
+Marimo
+pixi
+Pixi
+pysidemkdocs
